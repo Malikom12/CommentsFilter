@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muham\\RiderProjects\\CommentsFilter\\CommentsFilter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CommentsFilter.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CommentsFilter.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\RiderProjects\\CommentsFilter\\CommentsFilter\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\RiderProjects\\CommentsFilter\\CommentsFilter\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\RiderProjects\\CommentsFilter\\CommentsFilter\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muham\\RiderProjects\\CommentsFilter\\CommentsFilter\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CommentsFilter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CommentsFilter.props",
+      "PackagePath": "build\\CommentsFilter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CommentsFilter.props",
+      "PackagePath": "buildMultiTargeting\\CommentsFilter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CommentsFilter.props",
+      "PackagePath": "buildTransitive\\CommentsFilter.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
